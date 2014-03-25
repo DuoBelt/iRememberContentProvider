@@ -18,6 +18,7 @@ import android.util.Log;
  * @author Michael A. Walker
  * 
  *  * Test 25032014
+ *  * Test 26032014
  */
 public class MoocDataDBAdapter {
 
